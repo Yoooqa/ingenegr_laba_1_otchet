@@ -1,5 +1,5 @@
 
-<img width="130" height="103" alt="image" src="https://github.com/user-attachments/assets/db34e416-73d3-49f3-8dd4-9945136fde51" />
+<img width="580" height="1063" alt="image" src="https://github.com/user-attachments/assets/db34e416-73d3-49f3-8dd4-9945136fde51" />
 
 ### **Отчет по лабораторной работе №1**
 
