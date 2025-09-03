@@ -60,8 +60,8 @@ git config --global user.email your.email@example.com
 
 В корневой папке репозитория `project1` был создан простой текстовый файл с именем `test.txt`. В него была добавлена одна или несколько тестовых строк, например:
 ```
-Hello, World!
-This is my first file in Git.
+hello, World!
+this is my first file in Git.
 ```
 
 ---
@@ -92,9 +92,9 @@ This is my first file in Git.
 
 В файл `test.txt` была добавлена новая строка. Его содержимое стало выглядеть примерно так:
 ```
-Hello, World!
-This is my first file in Git.
-This is a new line added for the second commit.
+hello, World!
+this is my first file in Git.
+this is a new line added for the second commit.
 ```
 
 ---
