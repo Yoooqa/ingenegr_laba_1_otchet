@@ -1,6 +1,3 @@
-**
-<div align="center"> <img width="25%" src="https://github.com/user-attachments/assets/db34e416-73d3-49f3-8dd4-9945136fde51" alt="Логотип ВУЗа"> </div>
-
 ### **Отчет по лабораторной работе №1**
 
 
